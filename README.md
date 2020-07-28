@@ -1,7 +1,7 @@
-#Weather bot
+# Weather bot
 
 Telegram bot to receive weather.
-#Start
+# Start
 
 Clone the repository `git clone https://github.com/s1mple-prog/WeatherBot.git`
 
